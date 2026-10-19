@@ -35,3 +35,20 @@ The application enforces strict South African phone number validation, allowing 
 - Disregard option returns `"Press 0 to delete the message."` exactly as specified
 - All outputs conform to POE rubric requirements
 - 100% test coverage across both Part 1 and Part 2 functionality
+
+
+📚 REFERENCES — Harvard Style
+
+Books
+Bates, B. & Sierra, K. 2020. Head First Java. 3rd edn. Sebastopol: O'Reilly Media.
+Deitel, P. & Deitel, H. 2021. Java How to Program. 12th edn. Hoboken: Pearson.
+Friedl, J.E.F. 2006. Mastering Regular Expressions. 3rd edn. Sebastopol: O'Reilly Media.
+Websites
+QuickBlox. 2023. A beginner's guide to chat app architecture. [Online]. Available from: https://quickblox.com/blog/beginners-guide-to-chat-app-architecture/ [Accessed 19 Oct 2026].
+Videos
+Tahch, M. 2021. JUnit 5: A guide to writing unit tests in Java [Video]. YouTube. Available from: https://www.youtube.com/watch?v=MOhiM2SXZl0 [Accessed 17 Oct 2026].
+Tahch, M. 2021. Automated testing with GitHub Actions [Video]. YouTube. Available from: https://www.youtube.com/watch?v=oz0Qd5H4Onk [Accessed 17 Oct 2026].
+Tahch, M. 2021. Getting started with GitHub Desktop [Video]. YouTube. Available from: https://www.youtube.com/watch?v=bUgFv1Y5LJw [Accessed 17 Oct 2026].
+Institutional Documents
+The Independent Institute of Education. 2024. Assessment Strategy and Policy (IIE009). Johannesburg: IIE.
+The Independent Institute of Education. 2024. Intellectual Integrity and Property Rights Policy (IIE023). Johannesburg: IIE.
